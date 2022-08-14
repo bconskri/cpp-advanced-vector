@@ -1,7 +1,7 @@
-#include "vector.h"
-#include "test.h"
-#include "test7.h"
-#include "test9.h"
+#include "advanced-vector/vector.h"
+#include "advanced-vector/test.h"
+#include "advanced-vector/test7.h"
+#include "advanced-vector/test9.h"
 
 namespace {
 
